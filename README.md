@@ -1,4 +1,4 @@
 # Data-Science-Capstone-1-Project
-Predicting Which Cities to Invest into Real Estate
+Predicting Sale Price of house in the city of Ames, IA
 
 IN PROGRESS
